@@ -76,12 +76,10 @@
     </a> 
 </p>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyahegde10&show_icons=true&locale=en" layout="compact" alt="shreyahegde10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyahegde10&show_icons=true&locale=en" alt="shreyahegde10" /></p>
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyahegde10&theme=tokyonight" alt="Top Languages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyahegde10&theme=dark&show_icons=true&locale=en" alt="GitHub Stats">
+</div>
 
 
 
